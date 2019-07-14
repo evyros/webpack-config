@@ -1,0 +1,10 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/main.js",
+  "scripts": {
+  },
+  "author": "Evyatar Rosner",
+  "license": "ISC"
+}
