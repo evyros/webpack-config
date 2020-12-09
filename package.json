@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/js/main.js",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack"
+  },
   "author": "Evyatar Rosner",
   "license": "ISC",
   "devDependencies": {
